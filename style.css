@@ -1,0 +1,15 @@
+  p{
+  	  font-size : 20pt;
+  }
+  p{
+  	color : blue;
+  }
+  body {
+  	  background-image: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.dwdrums.com%2Fimages%2Fartists%2Fwallpaper%2Fcollectors_glamour-16x10.jpg&imgrefurl=http%3A%2F%2Fwww.dwdrums.com%2Fartists%2Fwallpaper.asp&tbnid=8AdF7C0v0QxIyM&vet=12ahUKEwjX_aGp2ojtAhXQAzQIHdF8BAoQMyggegUIARCGAg..i&docid=nEZomhRG1Lw1JM&w=2560&h=1600&q=drum%20images&hl=en&ved=2ahUKEwjX_aGp2ojtAhXQAzQIHdF8BAoQMyggegUIARCGAg");
+  }
+  Table{ border: 1 px solid black ; }
+  Table,td{ border: 1px } solid black; }
+  footer{
+  background-color:#FF4933;
+  padding: 60px 0px;
+  }
